@@ -1,0 +1,33 @@
+body{
+    background: #68CDD5;
+}
+p{
+    font-size: 1rem;
+    color: #fff;
+}
+.middle{
+    margin: 10% 15%;
+}
+.logo{
+    text-align: center;
+}
+.logo img{
+    width: 9rem;
+}
+.text{
+    padding: 0;
+    margin: 25% auto;
+}
+.bottom{
+    margin:auto 15%;
+    text-align: center;
+}
+.bottom img{
+    width:4rem;
+}
+.bottom_left{
+    float: left;
+}
+.bottom_right{
+    float: right;
+}
