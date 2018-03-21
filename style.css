@@ -1,6 +1,9 @@
 body{
     background: #68CDD5;
 }
+.top img{
+    width: 3rem;
+}
 p{
     font-size: 1rem;
     color: #fff;
